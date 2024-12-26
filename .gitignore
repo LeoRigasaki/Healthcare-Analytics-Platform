@@ -169,3 +169,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Data files
+data/raw/*
+!data/raw/health_data.csv  # Keep the raw data file as an example
+data/processed/*
+data/warehouse/*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Dashboard artifacts
+dashboards/html/__pycache__/
