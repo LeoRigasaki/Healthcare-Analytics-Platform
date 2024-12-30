@@ -80,7 +80,7 @@ pip install -r docs/requirements.txt
 ### 1. Set Up Environment
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Healthcare-Analytics-Platform.git
+   git clone https://github.com/LeoRigasaki/Healthcare-Analytics-Platform.git
    cd Healthcare-Analytics-Platform
    ```
 

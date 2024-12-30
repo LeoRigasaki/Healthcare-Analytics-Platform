@@ -172,7 +172,7 @@ cython_debug/
 
 # Data files
 !data/raw/health_data.csv  # Keep the raw data file as an example
-data/processed/*
+data/processed/*.csv
 data/warehouse/*
 
 # Jupyter Notebook checkpoints
@@ -180,3 +180,4 @@ data/warehouse/*
 
 # Dashboard artifacts
 dashboards/html/__pycache__/
+analytics/*.pkl
