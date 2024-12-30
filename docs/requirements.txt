@@ -4,3 +4,5 @@ tqdm
 python-dotenv
 pyarrow
 fastparquet
+streamlit
+plotly
